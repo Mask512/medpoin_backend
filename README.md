@@ -42,7 +42,7 @@ Sumber Repo : [Source](https://github.com/BAMBAROO/med_poin_backend)
   
 ```bash
   npx prisma migrate dev
-  npx generate
+  npx prisma generate
 ```
 
 _Catatan untuk pengguna xampp :_  
