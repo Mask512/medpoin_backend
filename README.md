@@ -15,7 +15,7 @@ Sumber Repo : [Source](https://github.com/BAMBAROO/med_poin_backend)
 1. Clone / download repositori ini ke dalam direktori lokal Anda
 
 ```bash
-  git -b instalation clone https://github.com/Mask512/medpoin_backend
+  git clone https://github.com/Mask512/medpoin_backend -b instalation
 ```
 
 2. Masuk ke direktori lalu install dependensi
