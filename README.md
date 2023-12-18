@@ -41,8 +41,7 @@ Sumber Repo : [Source](https://github.com/BAMBAROO/med_poin_backend)
   _tunggu hingga selesai_  
   
 ```bash
-  npx prisma migrate dev
-  npx prisma generate
+  npm run sync-prisma
 ```
 
 _Catatan untuk pengguna xampp :_  
